@@ -24,9 +24,7 @@ ORCA Compound script used: popt+saddle_rowan.cmp
     ts: Running
     format: ts only
 
-### 3) maleimide_conj_add_minimal 🟡
-    ts: Running
-    format: ts only
+### 3) maleimide_conj_add_minimal ✅
 
 ### 4) oxoammonium_cope ✅
 
