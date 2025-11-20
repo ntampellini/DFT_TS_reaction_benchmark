@@ -20,9 +20,7 @@ ORCA Compound script used: popt+saddle_rowan.cmp
     ts: Running
     format: ts only
 
-### 2) 8mem_SN2_minimal 🟡
-    ts: Running
-    format: ts only
+### 2) 8mem_SN2_minimal ✅
 
 ### 3) maleimide_conj_add_minimal ✅
 
@@ -40,8 +38,8 @@ ORCA Compound script used: popt+saddle_rowan.cmp
 
 ### 8) S_IV_inversion_+dot ✅
 
-### 9) S_oxidation_minimal 🟡
-    ts: Running
+### 9) S_oxidation_minimal ❌
+    ts: failed
     sm: To run
     prod: To run
     format: All
